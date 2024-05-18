@@ -17,6 +17,30 @@ device = (
 )
 print(f"Using {device} device")
 ```
+
+---
+
+2. **`Matplotlib multiple plot`**
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+
+x = np.arange(1,11)
+y = 3*x+2
+z = x**2+5
+
+# --------------------------------------------
+
+fig, axs = plt.subplots(nrows=2, ncols=2, figsize=(12, 4))
+axs[0][0].plot(x,y)
+axs[0][1].plot(x, z)
+axs[1][0].plot(x, z)
+axs[1][1].plot(x, y)
+
+plt.show()
+```
+
 <!--
 **deependujha/deependujha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
