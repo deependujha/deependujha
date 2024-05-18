@@ -33,7 +33,7 @@ z = x**2+5
 # --------------------------------------------
 
 fig, axs = plt.subplots(nrows=2, ncols=2, figsize=(12, 4))
-axs[0][0].plot(x,y)
+axs[0][0].plot(x, y)
 axs[0][1].plot(x, z)
 axs[1][0].plot(x, z)
 axs[1][1].plot(x, y)
