@@ -1,6 +1,9 @@
 <h1 align="center"> Hi there 👋 I'm Deep 🤠</div>
+<br/>
+<p align="center">
+  <img src="./tom-cowboy.jpg" />
+</p>
 
-![tom cowboy](./assets/tom-cowboy.jpg)
 ---
 
 [![Deependu Jha profile views](https://u8views.com/api/v1/github/profiles/76887609/views/day-week-month-total-count.svg)](https://u8views.com/github/deependujha)
