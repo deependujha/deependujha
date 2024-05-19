@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 I'm Deep 🤠</div>
+
+![tom cowboy](./assets/tom-cowboy.jpg)
+---
+
+[![Deependu Jha profile views](https://u8views.com/api/v1/github/profiles/76887609/views/day-week-month-total-count.svg)](https://u8views.com/github/deependujha)
+
+---
 
 ## Codes I use often but don't remember:
 
