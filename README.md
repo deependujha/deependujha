@@ -51,6 +51,29 @@ axs[1][1].plot(x, y)
 plt.show()
 ```
 
+---
+
+3. **`Argument Parser in python`**
+
+```python
+import os
+from argparse import ArgumentParser
+
+if __name__ == "__main__":
+    # enable CLI commands
+    parser = ArgumentParser()
+    parser.add_argument('--data', type=str,
+                        default=os.getcwd() + '/example_dataset')
+    parser.add_argument('--max_steps', type=int, default=100)
+    parser.add_argument('--lr', type=float, default=1e-3)
+    parser.add_argument('--batch_size', type=int, default=2)
+    args = parser.parse_args()
+    
+    print(f"{args=}")
+    print(f"batch size: {args.batch_size}")
+```
+
+
 <!--
 **deependujha/deependujha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
