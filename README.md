@@ -73,6 +73,41 @@ if __name__ == "__main__":
     print(f"batch size: {args.batch_size}")
 ```
 
+---
+
+3. **Pytorch model summary**
+
+```python
+from torchinfo import summary
+
+model = ConvNet()
+batch_size = 16
+summary(model, input_size=(batch_size, 1, 28, 28))
+```
+
+```
+================================================================================================================
+Layer (type:depth-idx)          Input Shape          Output Shape         Param #            Mult-Adds
+================================================================================================================
+SingleInputNet                  [7, 1, 28, 28]       [7, 10]              --                 --
+├─Conv2d: 1-1                   [7, 1, 28, 28]       [7, 10, 24, 24]      260                1,048,320
+├─Conv2d: 1-2                   [7, 10, 12, 12]      [7, 20, 8, 8]        5,020              2,248,960
+├─Dropout2d: 1-3                [7, 20, 8, 8]        [7, 20, 8, 8]        --                 --
+├─Linear: 1-4                   [7, 320]             [7, 50]              16,050             112,350
+├─Linear: 1-5                   [7, 50]              [7, 10]              510                3,570
+================================================================================================================
+Total params: 21,840
+Trainable params: 21,840
+Non-trainable params: 0
+Total mult-adds (M): 3.41
+================================================================================================================
+Input size (MB): 0.02
+Forward/backward pass size (MB): 0.40
+Params size (MB): 0.09
+Estimated Total Size (MB): 0.51
+================================================================================================================
+```
+
 
 <!--
 **deependujha/deependujha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
