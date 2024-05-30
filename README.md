@@ -7,7 +7,7 @@
 + Rustacean
 + Cloud Computing (AWS primarily)
 + NeoVim
-+ Ubuntu Linux
++ Ubuntu & Mac
 ```
 
 <p align="center">
