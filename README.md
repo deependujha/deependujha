@@ -1,3 +1,23 @@
+### Hi there 👋
+
+![](https://komarev.com/ghpvc/?username=deependujha&color=green)
+
+>
+> **Deep Learning Engineer & a Rustacean.**
+>
+
+<p align="center">
+
+<img width="53%"  src="https://github-readme-stats.vercel.app/api?username=deependujha&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+
+<img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=deependujha&hide_border=true" />
+  
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deependujha&layout=compact&langs_count=8&theme=algolia"/>
+
+</p>
+
+<!--
+---------------
 <h1 align="center"> Hi there 👋 I'm Deep 🤠</div>
 <br/>
 <p align="center">
@@ -109,7 +129,7 @@ Estimated Total Size (MB): 0.51
 ```
 
 
-<!--
+
 **deependujha/deependujha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
