@@ -2,9 +2,13 @@
 
 ![](https://komarev.com/ghpvc/?username=deependujha&color=green)
 
->
-> **Deep Learning Engineer & a Rustacean.**
->
+```diff
++ Deep Learning Engineer
++ Rustacean
++ Cloud Computing (AWS primarily)
++ NeoVim
++ Ubuntu Linux
+```
 
 <p align="center">
 
