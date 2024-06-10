@@ -4,10 +4,8 @@
 
 ```diff
 + Deep Learning Engineer
-+ Rustacean
++ Rustacean (for side projects)
 + Cloud Computing (AWS primarily)
-+ NeoVim
-+ Ubuntu & Mac
 ```
 
 <p align="center">
