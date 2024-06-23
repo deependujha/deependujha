@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=deependujha&color=green)
 
 ```diff
-+ Deep Learning Engineer
-+ Wanna be Rustacean (for side projects)
++ Deep Learning ❤️
++ Wanna be Rustacean
 + Cloud Computing (AWS primarily)
 ```
 
