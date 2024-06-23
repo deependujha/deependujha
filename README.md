@@ -4,7 +4,7 @@
 
 ```diff
 + Deep Learning Engineer
-+ Rustacean (for side projects)
++ Wanna be Rustacean (for side projects)
 + Cloud Computing (AWS primarily)
 ```
 
