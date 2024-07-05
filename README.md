@@ -6,7 +6,7 @@
 + Deep Learning ❤️
 + Wanna be Rustacean
 + Cloud Computing (AWS primarily)
-- Open for work (if you're working on something challenging & you love what you build) 🚀
+- Open for work (if you're working on something challenging & you love what you're building) 🚀
 ```
 
 <p align="center">
