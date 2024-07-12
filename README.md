@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=deependujha&color=green)
 
+Core-team member of <a src="https://github.com/Lightning-AI/litdata" target="_blank">LitData</a>
+
 ```diff
 + Deep Learning ❤️
 + Wanna be Rustacean
