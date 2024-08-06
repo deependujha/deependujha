@@ -21,6 +21,13 @@ Core-team member of <a href="https://github.com/Lightning-AI/litdata" target="_b
 
 </p>
 
+  
+<details>
+  <summary><a id="stream-large-cloud-datasets">✅ Stream large cloud datasets </a> </summary>
+&nbsp;
+meow meow
+</details>
+
 <!--
 ---------------
 <h1 align="center"> Hi there 👋 I'm Deep 🤠</div>
