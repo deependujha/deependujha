@@ -2,12 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=deependujha&color=green)
 
-Core-team member of <a href="https://github.com/Lightning-AI/litdata" target="_blank">LitData</a>
+- Self taught | Deep Learning | Python , C++, Rust
+
+- Open Source ❤️
+
+- Core-team member of <a href="https://github.com/Lightning-AI/litdata" target="_blank">LitData</a>
 
 ```diff
-+ Deep Learning ❤️
-+ Wanna be Rustacean
-+ Cloud Computing (AWS primarily)
++ There is always one more bug to fix.  – Ellen Ullman
 ```
 
 <p align="center">
