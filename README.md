@@ -8,7 +8,7 @@
 
 - Core-team member of <a href="https://github.com/Lightning-AI/litdata" target="_blank">LitData</a>
 
-```diff
+```
 There is always one more bug to fix.  – Ellen Ullman
 ```
 
