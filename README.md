@@ -6,6 +6,8 @@
 
 - Open Source ❤️
 
+- Learning about compilers 🧙🏻
+
 - Core-team member of <a href="https://github.com/Lightning-AI/litdata" target="_blank">LitData</a>
 
 - Check out my blogs mostly related to [Deep Learning Compilers ⚡](https://deependujha.github.io)
