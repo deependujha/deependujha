@@ -10,6 +10,10 @@
 
 - Core-team member of <a href="https://github.com/Lightning-AI/litdata" target="_blank">LitData</a>
 
+- My PRs in Lightning AI ⚡ projects
+  - [LitData](https://github.com/Lightning-AI/litdata/pulls/deependujha)
+  - [Lightning-thunder](https://github.com/Lightning-AI/lightning-thunder/pulls/deependujha)
+
 - Check out my blogs mostly related to [Deep Learning Compilers ⚡](https://deependujha.github.io)
 
 ```
