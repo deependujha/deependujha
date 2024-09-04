@@ -11,7 +11,7 @@
 - My PRs in Lightning AI ⚡ projects
   - [LitData](https://github.com/Lightning-AI/litdata/pulls/deependujha)
 
-- Check out my blogs mostly related to [Deep Learning Compilers ⚡](https://deependujha.github.io)
+- Check out my [blogs](https://deependujha.github.io)
 
 ```
 There is always one more bug to fix.  – Ellen Ullman
