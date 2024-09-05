@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=deependujha&color=green)
 
-- Self taught | Deep Learning & Backend | Python , C++, Rust
+- Self taught | Deep Learning & Backend | Python , Node, Go
 
 - Open Source ❤️
 
