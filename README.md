@@ -13,6 +13,8 @@
 
 - Check out my [blogs](https://deependujha.github.io)
 
+- [Go resources](https://github.com/deependujha/go-resources)
+ 
 ```
 There is always one more bug to fix.  – Ellen Ullman
 ```
