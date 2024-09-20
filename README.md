@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=deependujha&color=green)
 
-- Self taught | Deep Learning & Backend | Python , Node, Go
+- Self taught | Deep Learning & Backend | Python , Go, Node
 
 - Open Source ❤️
 
@@ -14,6 +14,8 @@
 - Check out my [blogs](https://deependujha.github.io)
 
 - [Go resources](https://github.com/deependujha/go-resources)
+
+- [Go-fsspec](https://github.com/deependujha/go-fsspec)
  
 ```
 There is always one more bug to fix.  – Ellen Ullman
