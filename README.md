@@ -2,9 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=deependujha&color=green)
 
-#### Open to work 🧑🏻‍💻🛠️
+## Open to work 🧑🏻‍💻🛠️
 
----
 
 - Self taught | Deep Learning & Backend | Python , Go, Node
 
