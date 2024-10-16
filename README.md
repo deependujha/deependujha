@@ -8,7 +8,7 @@
 - Self taught | Deep Learning & Backend | Python , Go, Rust, C++
 
 - Open Source ❤️
-- Deep Learning Compilers
+- Deep Learning Compilers & CUDA
 
 - Core-team member of <a href="https://github.com/Lightning-AI/litdata" target="_blank">LitData</a> [(Lightning AI)](https://www.lightning.ai)
 
