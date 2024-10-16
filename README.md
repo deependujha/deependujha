@@ -5,7 +5,7 @@
 ## Open to challenging opportunities 🧑🏻‍💻🛠️
 
 
-- Self taught | Deep Learning & Backend | Python , Go, Node
+- Self taught | Deep Learning & Backend | Python , Go, Rust, C++
 
 - Open Source ❤️
 - Deep Learning Compilers
