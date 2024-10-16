@@ -2,14 +2,15 @@
 
 ![](https://komarev.com/ghpvc/?username=deependujha&color=green)
 
-## Open to work 🧑🏻‍💻🛠️
+## Open to challenging opportunities 🧑🏻‍💻🛠️
 
 
 - Self taught | Deep Learning & Backend | Python , Go, Node
 
 - Open Source ❤️
+- Deep Learning Compilers
 
-- Core-team member of <a href="https://github.com/Lightning-AI/litdata" target="_blank">LitData</a>
+- Core-team member of <a href="https://github.com/Lightning-AI/litdata" target="_blank">LitData</a> [(Lightning AI)](https://www.lightning.ai)
 
 - My PRs in Lightning AI ⚡ projects
   - [LitData](https://github.com/Lightning-AI/litdata/pulls/deependujha)
