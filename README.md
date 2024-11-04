@@ -5,10 +5,10 @@
 ## Open to challenging opportunities 🧑🏻‍💻🛠️
 
 
-- Self taught | Deep Learning & Backend | Python , Go, Rust, C++
+- Self taught | Deep Learning & Backend | Python, C++, Go
 
 - Open Source ❤️
-- Deep Learning Compilers & CUDA
+- Deep Learning Compilers & CUDA | MPS
 
 - Core-team member of <a href="https://github.com/Lightning-AI/litdata" target="_blank">LitData</a> [(Lightning AI)](https://www.lightning.ai)
 
