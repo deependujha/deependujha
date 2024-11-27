@@ -18,13 +18,9 @@
 
 - Check out my [blogs](https://deependujha.github.io)
 
-- [Go resources](https://github.com/deependujha/go-resources)
-
-- [Go-fsspec](https://github.com/deependujha/go-fsspec)
  
-```
-There is always one more bug to fix.  – Ellen Ullman
-```
+![Quote-10](https://github.com/user-attachments/assets/d6804d49-9e64-4826-9c80-45bfe9428007)
+
 
 <p align="center">
 
