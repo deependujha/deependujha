@@ -14,7 +14,6 @@
 
 - My PRs in Lightning AI ⚡ projects
   - [LitData](https://github.com/Lightning-AI/litdata/pulls/deependujha)
-  - [LitServe](https://github.com/Lightning-AI/LitServe/pulls/deependujha)
 
 - Check out my [blogs](https://deependujha.github.io)
 
