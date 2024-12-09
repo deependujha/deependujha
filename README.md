@@ -17,10 +17,6 @@
 
 - Check out my [blogs](https://deependujha.github.io)
 
- 
-![Quote-10](https://github.com/user-attachments/assets/d6804d49-9e64-4826-9c80-45bfe9428007)
-
-
 <p align="center">
 
 <img width="53%"  src="https://github-readme-stats.vercel.app/api?username=deependujha&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
