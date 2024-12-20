@@ -18,9 +18,9 @@
 - Check out my [blogs](https://deependujha.github.io)
 
 - For quick reference, I make notes, as sometimes searching in documentation becomes hectic.
-- [C++ codes](https:://deependujha.github.io/cpp-codes)
-- [Go codes](https:://deependujha.github.io/go-codes)
-- [Python codes](https:://deependujha.github.io/python-codes)
+- [C++ codes](https://deependujha.github.io/cpp-codes)
+- [Go codes](https://deependujha.github.io/go-codes)
+- [Python codes](https://deependujha.github.io/python-codes)
 
 <p align="center">
 
