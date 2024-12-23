@@ -29,6 +29,8 @@
 - Cooking (learning)
 - For future reference, I'm taking small notes: [cooking-journey](https://github.com/deependujha/cooking-journey)
 
+---
+
 <p align="center">
 
 <img width="53%"  src="https://github-readme-stats.vercel.app/api?username=deependujha&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
