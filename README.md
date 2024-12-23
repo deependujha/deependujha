@@ -27,7 +27,7 @@
 #### Hobbies
 
 - Cooking (learning)
-- For future reference, I'm taking small notes: [cooking-journey](https://github.com/deependujha/cooking-journe)
+- For future reference, I'm taking small notes: [cooking-journey](https://github.com/deependujha/cooking-journey)
 
 <p align="center">
 
