@@ -4,6 +4,9 @@
 
 ## Open to challenging opportunities 🧑🏻‍💻🛠️
 
+<img width="667" alt="Screenshot 2025-01-11 at 10 11 19 PM" src="https://github.com/user-attachments/assets/625b3e1c-819a-42ad-af49-d2e6b4cb2afa" />
+
+
 
 - Self taught | Deep Learning & Backend | Python, C++, Go
 
@@ -21,13 +24,6 @@
 - [C++ codes](https://deependujha.github.io/cpp-codes)
 - [Go codes](https://deependujha.github.io/go-codes)
 - [Python codes](https://deependujha.github.io/python-codes)
-
----
-
-#### Hobbies
-
-- Cooking (learning)
-- For future reference, I'm taking small notes: [cooking-journey](https://github.com/deependujha/cooking-journey)
 
 ---
 
