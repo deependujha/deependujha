@@ -6,14 +6,16 @@
 
 ![rl](./rl.gif)
 
-- Open Source ❤️
-- Deep Learning
-- A self-taught, open-source software engineer.
-- Languages: Python, Rust, Go
+- A self-taught, open-source ❤️ Contributor.
+- Languages: `Python, Rust, Go`
 - Open-Source @ [Lightning AI](https://lightning.ai)
 - Reinforcement Learning enthusiast
-- 3 magical words: Probably Approximately Correct (PAC)
+- 3 magical words: **`Probably Approximately Correct (PAC)`**
 - Check out my [blogs](https://deependujha.github.io/blog)
+
+```txt
+Don't call it regret, call it replay buffer. 😉
+```
 
 ---
 
