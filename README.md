@@ -6,7 +6,7 @@
 
 ![rl](./rl.gif)
 
-- A self-taught, open-source ❤️ Contributor.
+- A self-taught, open-source ❤️ software engineer.
 - Languages: `Python, Rust, Go`
 - Open-Source @ [Lightning AI](https://lightning.ai)
 - Reinforcement Learning enthusiast
