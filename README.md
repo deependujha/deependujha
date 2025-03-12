@@ -23,3 +23,4 @@ Don't call it regret, call it replay buffer. 😉
 - [C++ codes](https://deependujha.github.io/cpp-codes)
 - [Go codes](https://deependujha.github.io/go-codes)
 - [Python codes](https://deependujha.github.io/python-codes)
+- [Rust codes](https://deependujha.github.io/rust-codes)
