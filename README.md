@@ -14,7 +14,7 @@
 - Check out my [blogs](https://deependujha.github.io/blog)
 
 ```txt
-Don't call it regret, call it replay buffer. 😉
+ps aux | grep "tests/" | awk '{print $2}' | xargs -r kill -9
 ```
 
 ---
