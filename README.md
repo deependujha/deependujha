@@ -4,12 +4,10 @@
 
 ## Open-Source @ [Lightning AI](https://lightning.ai)
 
-![rl](./rl.gif)
-
 - A self-taught, open-source ❤️ software engineer.
-- Languages: `Python, Rust, Go`
+- Languages: `Python, Rust, C++`
 - Open-Source @ [Lightning AI](https://lightning.ai)
-- Reinforcement Learning enthusiast
+- Deep Learning | Compilers | Quant
 - 3 magical words: **`Probably Approximately Correct (PAC)`**
 - Check out my [blogs](https://deependujha.github.io/blog)
 
