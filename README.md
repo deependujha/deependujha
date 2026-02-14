@@ -12,7 +12,10 @@
 - Check out my [blogs](https://deependujha.github.io/blog)
 
 ```txt
-ps aux | grep "tests/" | awk '{print $2}' | xargs -r kill -9
+# free cuda if hanged due to a worker failure and others stuck at barrier()
+
+pkill -9 -f "tests/"    # failed during tests
+pkill -9 -f "main.py"   # failed during manual run
 ```
 
 ---
