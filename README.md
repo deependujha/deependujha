@@ -11,7 +11,7 @@
 - 3 magical words: **`Probably Approximately Correct (PAC)`**
 - Check out my [blogs](https://deependujha.github.io/blog)
 
-```txt
+```sh
 # free cuda if hanged due to a worker failure and others stuck at barrier()
 
 pkill -9 -f "tests/"    # failed during tests
