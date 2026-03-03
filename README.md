@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=deependujha&color=green)
+![_](https://komarev.com/ghpvc/?username=deependujha&color=green)
 
 ## Open-Source @ [Lightning AI](https://lightning.ai)
 
